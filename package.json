@@ -40,7 +40,7 @@
     "sass-loader": "^6.0.6",
     "style-loader": "^0.18.2",
     "webpack": "^3.6.0",
-    "yarn": "^1.6.0"
+    "yarn": "^1.7.0"
   },
   "devDependencies": {
     "babel-eslint": "^8.0.1",
