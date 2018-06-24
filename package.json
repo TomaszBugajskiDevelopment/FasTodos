@@ -16,6 +16,9 @@
     "test:coverage:report": "open coverage/lcov-report/index.html",
     "heroku-prebuild": "npm install & npm i yarn"
   },
+  "engines": {
+    "node": "9.11.1"
+  },
   "author": "",
   "license": "ISC",
   "dependencies": {
